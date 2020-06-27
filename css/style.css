@@ -7,6 +7,17 @@ nav {
     position: fixed;
     top: 0;
     display: flex;
+    height: 20px;
+    background: red;
+}
+
+#header-img {
+    height: 100px;
+    width: auto;
+    background: radial-gradient(rgba(0,0,0,0), rgba(100,100,100,0.3));
+    position: absolute;
+    top: 20px;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
