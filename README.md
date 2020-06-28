@@ -1,5 +1,5 @@
 # Product-Landing-Page
-A repository for work related to freeCodeCamp's "Product Landing Page" project.
+A repository for work related to [freeCodeCamp's "Product Landing Page" project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page).
 
 This freeCodeCamp project has the following requirements:
 
